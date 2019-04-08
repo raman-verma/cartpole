@@ -3,7 +3,9 @@
 
 * Importing File:
 import gym
-import keras	> Backend Theano
+
+import keras	# Backend Theano
+
 import random
 import math
 import numpy as np
