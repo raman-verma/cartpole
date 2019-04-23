@@ -2,10 +2,9 @@
 -Using Jupyter Notebook File
 
 Importing File:
-type: 'import gym'
+import 'gym'
 import keras	# Backend Theano
 import random
 import math
 import numpy as np
-'from collections import deque'
-
+from collections import deque
