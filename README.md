@@ -1,5 +1,5 @@
 ## CartPole-v0 OpenGym environment
--Using Jupyter Notebook File
+> Using Jupyter Notebook File
 
 ### **Importing File:**
 ```sh
